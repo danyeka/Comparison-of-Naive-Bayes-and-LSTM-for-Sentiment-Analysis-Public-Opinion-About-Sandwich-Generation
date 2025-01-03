@@ -54,9 +54,9 @@ Steps to prepare data for analysis:
 **Strengths**: Captures long-term dependencies in text.
 
 **Hyperparameters**:
-**Best Batch Size**: 64
-**Best Epochs**: 150
-**Optimal Neurons**: 75
+- **Best Batch Size**: 64
+- **Best Epochs**: 150
+- **Optimal Neurons**: 75
 
 # Evaluation
 Metrics used for model performance:
